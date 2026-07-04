@@ -107,7 +107,7 @@ Quest Space Setup
 → Wall Approach Speed & TTC Calculation  
 → DistanceCanvas Debug UI Output
 
-### Feature Output
+### Feature 결과
 
 현재 프로토타입에서 실시간으로 확인 가능한 주요 출력값은 다음과 같습니다.
 
@@ -125,7 +125,7 @@ Quest Space Setup
 | TTC | 현재 접근 속도가 유지될 경우 벽에 도달하기까지의 예상 시간 |
 
 ---
-## Scene Configuration
+## Scene 구성
 
 현재 `SampleScene`은 Quest 실기기 테스트를 위한 단일 테스트 씬입니다.
 
@@ -149,7 +149,7 @@ Quest Space Setup
 
 ---
 
-## Key Scripts
+## 주요 script
 
 ### `QuestSceneDistanceLogger.cs`
 
@@ -210,7 +210,7 @@ Guardian Boundary 디버깅을 위한 보조 스크립트입니다.
 
 ---
 
-## Runtime Output
+## 실행 결과
 
 앱 실행 후 DistanceCanvas에서 다음 정보를 실시간으로 확인할 수 있습니다.
 
@@ -237,7 +237,7 @@ Approaching Wall
 
 ---
 
-## Setup & Build
+## 실행 방법
 
 1. Unity Hub에서 프로젝트를 엽니다.
 2. `Assets/Scenes/SampleScene.unity`를 엽니다.
@@ -250,7 +250,7 @@ Approaching Wall
 
 ---
 
-## Test Checklist
+## 확인 목록
 
 실기기에서 다음 항목을 확인합니다.
 
@@ -264,7 +264,7 @@ Approaching Wall
 
 ---
 
-## Current Status
+## 해야할 것
 
 현재 구현된 기능은 다음과 같습니다.
 
